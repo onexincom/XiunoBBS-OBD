@@ -1,5 +1,5 @@
 # XiunoBBS-OBD
-XiunoBBS-OBD大数据采集插件，更新于：2021年08月14日
+XiunoBBS-OBD大数据采集插件，更新于：2021年08月20日
 
 ## 插件介绍
 ONEXIN大数据文章自动批量采集(Onexin BigData，简称OBD)，欢迎体验来自云端的采集器，我们在云端等你哟。
