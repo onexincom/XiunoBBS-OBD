@@ -16,18 +16,16 @@ ONEXIN大数据文章自动批量采集(Onexin BigData，简称OBD)，欢迎体�
 * 2、然后，后台安装，
 * 3、接下来，请按教程一步一步操作。
 * 发布模块名：portal（资讯），模块名：wenda（问答回复类）
-
-安装ONEXIN大数据文章采集器图文教程（修订版）
-https://www.clocol.com/obd.html
+* 大数据采集通用教程：
+* 图文教程：https://www.clocol.com/obd.html
+* 视频教程：https://www.bilibili.com/video/BV1XP4y1h7W8/
+* 常见问题：https://we.onexin.com/?mod=bigdata&do=faq
 
 ### 二、申请授权
 * 申请授权：https://we.onexin.com/?mod=bigdata&do=license
 * 申请授权填的网址为 https://你的网站地址/plugin/onexin_bigdata/api.php
 * 大数据插件后台: https://你的网站地址/plugin/onexin_bigdata/
 
-* 大数据采集通用教程：
-* 视频教程：https://v.qq.com/x/page/e0558re5hk2.html
-* 图文教程：https://we.onexin.com/?mod=bigdata&do=faq
 
 
 ### 三、触发代码放到主题模板尾部中，oid账号100000替换为自己的。
